@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Node" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="node" />
+      <option name="PARAMETERS" value="--inspect-brk=9225 dist/src -f ingest -h orchestration -p 10000" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+    </exec>
+  </tool>
+</toolSet>
