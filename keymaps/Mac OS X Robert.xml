@@ -12,6 +12,9 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="JumpToLastWindow" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f5" />
