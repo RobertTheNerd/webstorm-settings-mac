@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="CopyElement" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift meta enter" />
@@ -11,6 +12,10 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="JumpToLastWindow" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="f11" />
@@ -23,5 +28,6 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="UML.ApplyCurrentLayout" />
   <action id="ViewSource" />
 </keymap>
