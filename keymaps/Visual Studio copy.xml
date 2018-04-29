@@ -6,10 +6,5 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorSplitLine" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="alt f8" />
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
-    <keyboard-shortcut first-keystroke="ctrl alt slash" />
-  </action>
   <action id="ViewSource" />
 </keymap>
