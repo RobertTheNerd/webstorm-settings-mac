@@ -1,0 +1,54 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527193324031">
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="4" />
+        <mark key="." line="70" column="4" />
+        <mark key="^" line="66" column="6" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBvb2wuc3RyZWFtaW5nRW5naW5lSWQgPSBhd2FpdCBzdHJlYW1pbmdFbmdpbmVTZXJ2aWNlLmNoYW5uZWxNYW5hZ2VyLmNyZWF0ZVBvb2woaXNlUG9vbCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBhd2FpdCBjb250ZW50UG9vbFJlcG9zaXRvcnkudXBkYXRlU3RyZWFtaW5nRW5naW5lSWQocG9vbC5pZCwgcG9vbC5zdHJlYW1pbmdFbmdpbmVJZCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cG9vbC5zdHJlYW1pbmdFbmdpbmVJZCA9IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwb29sLnN0cmVhbWluZ0VuZ2luZUlkID0gYXdhaXQgc3RyZWFtaW5nRW5naW5lU2VydmljZS5jaGFubmVsTWFuYWdlci5jcmVhdGVQb29sKGlzZVBvb2wpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">cG9vbC5zdHJlYW1pbmdFbmdpbmVJZCA9IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
