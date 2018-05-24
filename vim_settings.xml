@@ -9,11 +9,20 @@
         <mark key="^" line="282" column="25" />
         <mark key="." line="282" column="25" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527198762180">
-        <mark key="[" line="199" column="120" />
-        <mark key="]" line="201" column="73" />
-        <mark key="^" line="201" column="73" />
-        <mark key="." line="201" column="73" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/itemRelationshipController.ts" timestamp="1527202306587">
+        <mark key="[" line="13" column="90" />
+        <mark key="]" line="13" column="90" />
+        <mark key="." line="13" column="90" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/db-migration/008_feature_conform_integration.sql" timestamp="1527201096309" />
+      <file name="/JavaScript Console" timestamp="1527202273128">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527201907611">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="21" column="67" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/channelManager.ts" timestamp="1527195239996">
         <mark key="[" line="42" column="10" />
@@ -21,44 +30,56 @@
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="17" />
       </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/contentPoolRepository.ts" timestamp="1527202127239">
+        <mark key="[" line="110" column="71" />
+        <mark key="]" line="110" column="67" />
+        <mark key="^" line="110" column="67" />
+        <mark key="." line="110" column="67" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527201455591">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="56" />
+        <mark key="." line="27" column="56" />
+        <mark key="^" line="27" column="56" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>m</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGF3YWl0IHN0cmVhbWluZ0VuZ2luZVNlcnZpY2UuY2hhbm5lbE1hbmFnZXIuY3JlYXRlQ2hhbm5lbChpc2VDaGFubmVsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb29sLml0ZW1zLmZvckVhY2goYXN5bmMgaXRlbSA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHN0cmVhbWluZ0VuZ2luZVNlcnZpY2UuY2hhbm5lbE1hbmFnZXIuZGVsZXRlQ2hhbm5lbChjaGFubmVsLnN0cmVhbWluZ0VuZ2luZUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHN5bmNDb250ZW50UG9vbChwb29sKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHN0cmVhbWluZ0VuZ2luZVNlcnZpY2UuY2hhbm5lbE1hbmFnZXIuZGVsZXRlQ2hhbm5lbChjaGFubmVsLnN0cmVhbWluZ0VuZ2luZUlkKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG86IGNvbnN0cnVjdCBzZSBjaGFubmVsIG9iamVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHN0cmVhbWluZ0VuZ2luZVNlcnZpY2UuY2hhbm5lbE1hbmFnZXIuZGVsZXRlQ2hhbm5lbChjaGFubmVsLnN0cmVhbWluZ0VuZ2luZUlkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
