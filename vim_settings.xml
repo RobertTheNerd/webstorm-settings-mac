@@ -3,23 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527193324031">
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="4" />
-        <mark key="." line="70" column="4" />
-        <mark key="^" line="66" column="6" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" timestamp="1527194857928">
+        <mark key="[" line="280" column="5" />
+        <mark key="]" line="282" column="25" />
+        <mark key="^" line="282" column="25" />
+        <mark key="." line="282" column="25" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527196088523">
+        <mark key="[" line="199" column="120" />
+        <mark key="]" line="201" column="73" />
+        <mark key="^" line="201" column="73" />
+        <mark key="." line="201" column="73" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/channelManager.ts" timestamp="1527195239996">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="17" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvb2wuc3RyZWFtaW5nRW5naW5lSWQgPSBhd2FpdCBzdHJlYW1pbmdFbmdpbmVTZXJ2aWNlLmNoYW5uZWxNYW5hZ2VyLmNyZWF0ZVBvb2woaXNlUG9vbCk7Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHN0cmVhbWluZ0VuZ2luZVNlcnZpY2UuY2hhbm5lbE1hbmFnZXIuY3JlYXRlQ2hhbm5lbChpc2VDaGFubmVsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhd2FpdCBjb250ZW50UG9vbFJlcG9zaXRvcnkudXBkYXRlU3RyZWFtaW5nRW5naW5lSWQocG9vbC5pZCwgcG9vbC5zdHJlYW1pbmdFbmdpbmVJZCk7Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cG9vbC5zdHJlYW1pbmdFbmdpbmVJZCA9IA==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -28,20 +43,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb29sLnN0cmVhbWluZ0VuZ2luZUlkID0gYXdhaXQgc3RyZWFtaW5nRW5naW5lU2VydmljZS5jaGFubmVsTWFuYWdlci5jcmVhdGVQb29sKGlzZVBvb2wpOwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHN0cmVhbWluZ0VuZ2luZVNlcnZpY2UuY2hhbm5lbE1hbmFnZXIuZGVsZXRlQ2hhbm5lbChjaGFubmVsLnN0cmVhbWluZ0VuZ2luZUlkKTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IHN0cmVhbWluZ0VuZ2luZVNlcnZpY2UuY2hhbm5lbE1hbmFnZXIuZGVsZXRlQ2hhbm5lbChjaGFubmVsLnN0cmVhbWluZ0VuZ2luZUlkKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">cG9vbC5zdHJlYW1pbmdFbmdpbmVJZCA9IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIHRvZG86IGNvbnN0cnVjdCBzZSBjaGFubmVsIG9iamVjdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
