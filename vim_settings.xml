@@ -75,7 +75,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/db-migration/006_feature_add_configuration.sql" timestamp="1527259173615" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527275767081">
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527276982500">
         <mark key="[" line="59" column="17" />
         <mark key="]" line="59" column="25" />
         <mark key="^" line="59" column="25" />
