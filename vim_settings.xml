@@ -32,10 +32,10 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527270480765">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527278748492">
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="64" />
+        <mark key="." line="38" column="64" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/services/streamingEngine/index.ts" timestamp="1527263836329">
         <mark key="[" line="3" column="30" />
@@ -43,10 +43,10 @@
         <mark key="^" line="4" column="70" />
         <mark key="." line="4" column="70" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/logger.ts" timestamp="1527273676201">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/logger.ts" timestamp="1527278724539">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
         <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/index.ts" timestamp="1527263664486">
@@ -75,11 +75,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/db-migration/006_feature_add_configuration.sql" timestamp="1527259173615" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527276982500">
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="59" column="25" />
-        <mark key="^" line="59" column="25" />
-        <mark key="." line="59" column="25" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527278629735">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="^" line="167" column="9" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/contentPoolRepository.ts" timestamp="1527275039988">
         <mark key="'" line="11" column="29" />
@@ -94,40 +94,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q3JlYXRpbmcg</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q3JlYXRpbmcg</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdDcmVhdGluZyBTRSBDaGFubmVsJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJlbnRJZHMgPSBbXTsK</text>
+        <text encoding="base64">CiAgICBhd2FpdCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJlbnRJZHMgPSBbXTsKICAgIGxldCBjaGFubmVsUmVxdWVzdDogUGFnaW5hdGlvblJlcXVlc3QgPSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRlbGV0ZSBhIGNoYW5uZWwgZnJvbSBTRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjcmVhdGVkQXQ/OiBzdHJpbmc7CiAgY3JlYXRlZEJ5Pzogc3RyaW5nOwogIG1vZGlmaWVkQXQ/OiBzdHJpbmc7CiAgbW9kaWZpZWRCeT86IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZDogc3RyaW5nOwogIG91SWQ6IHN0cmluZzsKICBuYW1lOiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRlbGV0ZSBhIGNoYW5uZWwgZnJvbSBTRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcG9vbElkID0gcG9vbC5pZDsK</text>
+        <text encoding="base64">ICAgIGxldCBwYXJlbnRJZHMgPSBbXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsRGF0YS5zZXNzaW9ucywKICAgICAgICBjaGFubmVsRGF0YS5zaG93QWRzLAogICAgICAgIGNoYW5uZWxEYXRhLnR5cGUsCiAgICAgICAgY2hhbm5lbERhdGEuZW5hYmxlZCwKICAgICAgICBjaGFubmVsRGF0YS5kZWxldGVkLAogICAgICAgIGNoYW5uZWxEYXRhLnVybCwKICAgICAgICBjaGFubmVsRGF0YS5vdUlkLAogICAgICAgIENvbW1vbkNvbnN0YW50LmR1bW15LnVzZXJJZEFkbWluLAogICAgICAgIGNoYW5uZWxEYXRhLmNoYW5uZWxJZE9uRGVwbGV0aW9uLAo=</text>
+        <text encoding="base64">ICAgIGxldCBwYXJlbnRJZHMgPSBbXTsKICAgIGxldCBjaGFubmVsUmVxdWVzdDogUGFnaW5hdGlvblJlcXVlc3QgPSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9ucyA9ICQyLCAKICAgICAgICBzaG93X2FkcyA9ICQzLAogICAgICAgIHR5cGUgPSAkNCwgCiAgICAgICAgZW5hYmxlZCA9ICQ1LCAKICAgICAgICBkZWxldGVkID0gJDYsIAogICAgICAgIHVybCA9ICQ3LCAKICAgICAgICBvdV9pZCA9ICQ4LCAKICAgICAgICBtb2RpZmllZF9ieSA9ICQ5LAogICAgICAgIGNoYW5uZWxfaWRfb25fZGVwbGV0aW9uID0gJDEwCg==</text>
+        <text encoding="base64">ICBjcmVhdGVkQXQ/OiBzdHJpbmc7CiAgY3JlYXRlZEJ5Pzogc3RyaW5nOwogIG1vZGlmaWVkQXQ/OiBzdHJpbmc7CiAgbW9kaWZpZWRCeT86IHN0cmluZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsX2lkX29uX2RlcGxldGlvbiA9ICQxMAo=</text>
+        <text encoding="base64">ICBpZDogc3RyaW5nOwogIG91SWQ6IHN0cmluZzsKICBuYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlc3VsdC5yb3dDb3VudCAhPT0gMSkgewogICAgICAgIGF3YWl0IGNsaWVudC5xdWVyeSgnUk9MTEJBQ0snKTsKICAgICAgICByZXR1cm4gbmV3IElucHV0RXJyb3IoJ1VuaGFuZGxlIEV4Y2VwdGlvbiBkdXJpbmcgY2hhbm5lbCB1cGRhdGUuJyk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcG9vbElkID0gcG9vbC5pZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
