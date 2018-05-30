@@ -9,12 +9,6 @@
       <file name="vm:1176" timestamp="1527263012999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527606613511">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-      </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/index.ts" timestamp="1527617483309">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="6" />
@@ -23,17 +17,7 @@
       <file name="/JavaScript Console" timestamp="1527275622433">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/package.json" timestamp="1527607130959">
-        <mark key="[" line="16" column="80" />
-        <mark key="]" line="16" column="102" />
-        <mark key="." line="16" column="102" />
-        <mark key="^" line="16" column="102" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/index.ts" timestamp="1527606401783" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/README.md" timestamp="1527609056903">
-        <mark key="[" line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527606787967" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527688663473" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/models.ts" timestamp="1527274657486">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="12" />
