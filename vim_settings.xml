@@ -41,15 +41,14 @@
         <mark key="^" line="65" column="48" />
         <mark key="." line="65" column="45" />
       </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/queueUtils.ts" timestamp="1527805712089">
+        <mark key="[" line="33" column="32" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/storageAdaptorService.ts" timestamp="1527802797014">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" timestamp="1527792531675">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1527801864442" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/models.ts" timestamp="1527692260585" />
@@ -70,6 +69,12 @@
         <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/metadataScrapeJobHandler.ts" timestamp="1527694714362" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/ingestController.ts" timestamp="1527806102747">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="92" column="79" />
+        <mark key="^" line="92" column="79" />
+        <mark key="." line="92" column="79" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527714966480">
         <mark key="[" line="40" column="46" />
         <mark key="]" line="40" column="53" />
@@ -85,7 +90,7 @@
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/routes/storage.ts" timestamp="1527795084001" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/node_modules/aws-sdk/clients/s3.d.ts" timestamp="1527789001932" />
-      <file name="/JavaScript Console" timestamp="1527275622433">
+      <file name="/JavaScript Console" timestamp="1527806141303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/exec.ts" timestamp="1527692418620" />
@@ -115,6 +120,12 @@
         <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/queueProcessor.ts" timestamp="1527694899105" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-common/models/ingest.ts" timestamp="1527806125017">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/services/streamingEngine/index.ts" timestamp="1527263836329">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="4" column="70" />
