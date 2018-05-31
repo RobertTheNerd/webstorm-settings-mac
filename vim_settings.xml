@@ -33,7 +33,12 @@
         <mark key="^" line="65" column="48" />
         <mark key="." line="65" column="45" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527688663473" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527793041500">
+        <mark key="[" line="29" column="125" />
+        <mark key="]" line="29" column="124" />
+        <mark key="^" line="29" column="124" />
+        <mark key="." line="29" column="124" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/models.ts" timestamp="1527792478912">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="12" />
