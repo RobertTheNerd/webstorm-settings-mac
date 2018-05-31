@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/README.md" timestamp="1527714192799" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/conformMasterMessageHandler.ts" timestamp="1527692578083" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/exec.ts" timestamp="1527692418620" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527718150648" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527780330754" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527714091624">
         <mark key="[" line="27" column="85" />
       </file>
