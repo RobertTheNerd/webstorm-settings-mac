@@ -16,8 +16,8 @@
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/conformMasterMessageHandler.ts" timestamp="1527692578083" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/exec.ts" timestamp="1527692418620" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527780330754" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527791530885">
-        <mark key="[" line="27" column="85" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527793921875">
+        <mark key="[" line="62" column="48" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/lib/mediainfoWrapper.ts" timestamp="1527694676773" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/messageHandlerFactory.ts" timestamp="1527692478371" />
