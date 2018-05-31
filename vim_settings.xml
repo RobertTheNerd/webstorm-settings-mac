@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/ingestJobPayload.ts" timestamp="1527803666836">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
       <file name="/fragment.js" timestamp="1527274476627">
         <mark key="[" line="0" column="0" />
       </file>
@@ -10,12 +16,21 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/conformMasterMessageHandler.ts" timestamp="1527692578083" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-common/models/storage-adapter.ts" timestamp="1527798327366">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/orchestrationJobHandler.ts" timestamp="1527799812183">
+        <mark key="[" line="53" column="70" />
+        <mark key="]" line="55" column="90" />
+        <mark key="^" line="55" column="90" />
+        <mark key="." line="55" column="90" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-common/models/storage-adapter.ts" timestamp="1527799064026">
         <mark key="[" line="40" column="22" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527780330754" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527795178707">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527804661113">
         <mark key="[" line="62" column="48" />
+        <mark key="]" line="62" column="5" />
+        <mark key="^" line="62" column="5" />
+        <mark key="." line="62" column="5" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/storageController.ts" timestamp="1527794957096" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/lib/mediainfoWrapper.ts" timestamp="1527694676773" />
@@ -26,16 +41,34 @@
         <mark key="^" line="65" column="48" />
         <mark key="." line="65" column="45" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/storageAdaptorService.ts" timestamp="1527798048106">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/storageAdaptorService.ts" timestamp="1527802797014">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" timestamp="1527792531675">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1527791731498" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1527801864442" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/models.ts" timestamp="1527692260585" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/handlers/ingest/lib/s3Helper.spec.ts" timestamp="1527803367363">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/conditionService.ts" timestamp="1527713527066" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/index.ts" timestamp="1527802458254">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/s3Utils.ts" timestamp="1527800844903">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="21" column="46" />
+        <mark key="." line="21" column="46" />
+        <mark key="^" line="21" column="48" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/metadataScrapeJobHandler.ts" timestamp="1527694714362" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527714966480">
         <mark key="[" line="40" column="46" />
@@ -44,17 +77,30 @@
         <mark key="." line="40" column="53" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/README.md" timestamp="1527714192799" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/lib/s3Helper.ts" timestamp="1527803938515">
+        <mark key="[" line="33" column="87" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/routes/storage.ts" timestamp="1527795084001" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/node_modules/aws-sdk/clients/s3.d.ts" timestamp="1527789001932" />
       <file name="/JavaScript Console" timestamp="1527275622433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/exec.ts" timestamp="1527692418620" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/lib/aws/s3lib.spec.ts" timestamp="1527790898903">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="16" column="6" />
-        <mark key="^" line="16" column="6" />
-        <mark key="." line="16" column="6" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/fsUtil.ts" timestamp="1527799691699" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/videoProxyJobHandler.ts" timestamp="1527804026605">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="45" column="34" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/lib/aws/s3lib.spec.ts" timestamp="1527803271164">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+        <mark key="^" line="35" column="20" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527793041500">
         <mark key="[" line="29" column="125" />
@@ -69,7 +115,19 @@
         <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/queueProcessor.ts" timestamp="1527694899105" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/services/streamingEngine/index.ts" timestamp="1527263836329">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="4" column="70" />
+        <mark key="^" line="4" column="70" />
+        <mark key="." line="4" column="70" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-common/enums/index.ts" timestamp="1527798290613" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-common/models/modelBase.ts" timestamp="1527273066912">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="11" column="29" filename="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/contentPoolRepository.ts" />
@@ -77,48 +135,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>number</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fCBgSVJJU19UT09MU19USFVNQk5BSUxfRk9MREVSYCB8IEZvbGRlciB3aGVyZSB0aHVtYm5haWwgZmlsZXMgYXJlIHNhdmVkLiB8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBidWZmZXIgPSBuZXcgQnVmZmVyKGRhdGEsICdiaW5hcnknKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>const credentials = AWS.Credentials({});
-  credentials.accessKeyId = 'AKIAJUBAGPNCTHGYCRCQ';
-  credentials.secretAccessKey = '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';
-
-  const awsConfig = AWS.Config({
-    credentials,
-    region: 'us-west'
-  });</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB0b2RvOiB1cGRhdGUgY29uZm9ybSBtZXNzYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBhd2FpdCAK</text>
+        <text encoding="base64">ICAgIC8vIGRlbGV0ZSBmaWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGRlbGV0ZSBhIGNoYW5uZWwgZnJvbSBTRQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChmaWxlKS50b0VxdWFsKCcnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGRlbGV0ZSBhIGNoYW5uZWwgZnJvbSBTRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJlbnRJZHMgPSBbXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJlbnRJZHMgPSBbXTsKICAgIGxldCBjaGFubmVsUmVxdWVzdDogUGFnaW5hdGlvblJlcXVlc3QgPSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBmcy5yZWFkRmlsZVN5bmMoJy9Vc2Vycy9yb2JlcnQvZGV2ZWwvaXJpcy9kYXRhL2lucHV0L2EuanBnJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
