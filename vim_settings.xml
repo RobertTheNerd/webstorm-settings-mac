@@ -34,19 +34,31 @@
         <mark key="." line="65" column="45" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527688663473" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/models.ts" timestamp="1527792478912">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/queueProcessor.ts" timestamp="1527694899105" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" timestamp="1527792531675">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1527791731498" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/models.ts" timestamp="1527692260585" />
     </filemarks>
     <jumps>
       <jump line="11" column="29" filename="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/contentPoolRepository.ts" />
+      <jump line="39" column="21" filename="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>client</text>
+        <text>number</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>number</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fCBgSVJJU19UT09MU19USFVNQk5BSUxfRk9MREVSYCB8IEZvbGRlciB3aGVyZSB0aHVtYm5haWwgZmlsZXMgYXJlIHNhdmVkLiB8Cg==</text>
