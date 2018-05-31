@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/conformMasterMessageHandler.ts" timestamp="1527692578083" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/exec.ts" timestamp="1527692418620" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527780330754" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527714091624">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527791530885">
         <mark key="[" line="27" column="85" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/lib/mediainfoWrapper.ts" timestamp="1527694676773" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/messageHandlerFactory.ts" timestamp="1527692478371" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/lib/aws/s3lib.spec.ts" timestamp="1527789830306">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/lib/aws/s3lib.spec.ts" timestamp="1527790898903">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="16" column="6" />
         <mark key="^" line="16" column="6" />
@@ -34,26 +34,8 @@
         <mark key="." line="65" column="45" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527688663473" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/models.ts" timestamp="1527274657486">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/queueProcessor.ts" timestamp="1527694899105" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/services/streamingEngine/index.ts" timestamp="1527263836329">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="4" column="70" />
-        <mark key="^" line="4" column="70" />
-        <mark key="." line="4" column="70" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-common/models/modelBase.ts" timestamp="1527273066912">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1527788672538" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1527791731498" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/models.ts" timestamp="1527692260585" />
     </filemarks>
     <jumps>
