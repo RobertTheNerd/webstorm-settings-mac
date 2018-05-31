@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/conditionService.ts" timestamp="1527713527066" />
+      <file name="/fragment.js" timestamp="1527274476627">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="vm:1176" timestamp="1527263012999">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/metadataScrapeJobHandler.ts" timestamp="1527694714362" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527714966480">
         <mark key="[" line="40" column="46" />
@@ -18,6 +24,9 @@
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/README.md" timestamp="1527714192799" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/conformMasterMessageHandler.ts" timestamp="1527692578083" />
+      <file name="/JavaScript Console" timestamp="1527275622433">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/exec.ts" timestamp="1527692418620" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527780330754" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527714091624">
@@ -30,6 +39,9 @@
         <mark key="]" line="65" column="45" />
         <mark key="^" line="65" column="48" />
         <mark key="." line="65" column="45" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/lib/aws/s3lib.ts" timestamp="1527787391188">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527688663473" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/queueProcessor.ts" timestamp="1527694899105" />
