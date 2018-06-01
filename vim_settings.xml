@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/ingestJobPayload.ts" timestamp="1527803666836">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/handlers/ingest/thumbnailJobHandler.spec.ts" timestamp="1527884939458">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -41,12 +35,6 @@
         <mark key="]" line="71" column="67" />
         <mark key="." line="71" column="67" />
         <mark key="^" line="71" column="67" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/README.md" timestamp="1527714995715">
-        <mark key="[" line="65" column="45" />
-        <mark key="]" line="65" column="45" />
-        <mark key="^" line="65" column="48" />
-        <mark key="." line="65" column="45" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/queueUtils.ts" timestamp="1527886430581">
         <mark key="[" line="80" column="77" />
@@ -88,12 +76,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/s3Utils.ts" timestamp="1527800844903">
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="21" column="46" />
-        <mark key="." line="21" column="46" />
-        <mark key="^" line="21" column="48" />
-      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/metadataScrapeJobHandler.ts" timestamp="1527808028618">
         <mark key="[" line="34" column="30" />
       </file>
@@ -105,12 +87,6 @@
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/ingestController.ts" timestamp="1527806102747">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="92" column="79" />
-        <mark key="^" line="92" column="79" />
-        <mark key="." line="92" column="79" />
-      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/audioProxyJobHandler.ts" timestamp="1527884635160">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -118,7 +94,7 @@
         <mark key="^" line="43" column="92" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/handlers/conform/cmd.spec.ts" timestamp="1527885738379" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527868118033">
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527891611366">
         <mark key="[" line="35" column="93" />
         <mark key="]" line="35" column="93" />
         <mark key="^" line="40" column="53" />
@@ -151,12 +127,6 @@
         <mark key="^" line="59" column="31" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/lib/aws/s3lib.spec.ts" timestamp="1527869833944">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="5" column="8" />
-      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527878629052">
         <mark key="[" line="48" column="23" />
         <mark key="]" line="48" column="27" />
@@ -164,35 +134,11 @@
         <mark key="." line="48" column="27" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/jobService.ts" timestamp="1527806424033" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/models.ts" timestamp="1527792478912">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-common/models/ingest.ts" timestamp="1527806125017">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/services/streamingEngine/index.ts" timestamp="1527263836329">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="4" column="70" />
-        <mark key="^" line="4" column="70" />
-        <mark key="." line="4" column="70" />
-      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/handlers/ingest/audioProxyJobHandler.spec.ts" timestamp="1527884922189">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="27" column="9" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-common/models/modelBase.ts" timestamp="1527273066912">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/thumbnailJobHandler.ts" timestamp="1527810483201">
         <mark key="[" line="49" column="18" />
