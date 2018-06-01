@@ -36,7 +36,7 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527882220636">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1527886458530">
         <mark key="[" line="71" column="67" />
         <mark key="]" line="71" column="67" />
         <mark key="." line="71" column="67" />
@@ -48,7 +48,7 @@
         <mark key="^" line="65" column="48" />
         <mark key="." line="65" column="45" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/queueUtils.ts" timestamp="1527885262237">
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/queueUtils.ts" timestamp="1527886430581">
         <mark key="[" line="80" column="77" />
         <mark key="]" line="80" column="77" />
         <mark key="." line="80" column="77" />
@@ -69,6 +69,12 @@
         <mark key="[" line="39" column="5" />
         <mark key="]" line="41" column="1" />
         <mark key="." line="41" column="1" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1527886487646">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/models.ts" timestamp="1527864333978" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/handlers/ingest/lib/s3Helper.spec.ts" timestamp="1527882447727">
