@@ -150,11 +150,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527793041500">
-        <mark key="[" line="29" column="125" />
-        <mark key="]" line="29" column="124" />
-        <mark key="^" line="29" column="124" />
-        <mark key="." line="29" column="124" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1527870272426">
+        <mark key="[" line="48" column="23" />
+        <mark key="]" line="48" column="27" />
+        <mark key="^" line="48" column="27" />
+        <mark key="." line="48" column="27" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/jobService.ts" timestamp="1527806424033" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/models.ts" timestamp="1527792478912">
@@ -204,11 +204,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsb2dnZXIuaW5mbyhgU2VuZGluZyBjb21mb3JtIG1lc3NhZ2UgZm9yIHByb2plY3QgJHtwcm9qZWN0LmlkfWApOwo=</text>
