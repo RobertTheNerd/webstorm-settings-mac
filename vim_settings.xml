@@ -25,11 +25,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/orchestrationJobHandler.ts" timestamp="1528151688364">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="89" column="77" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/orchestrationJobHandler.ts" timestamp="1528152938220">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="107" column="20" />
+        <mark key="^" line="107" column="20" />
+        <mark key="." line="107" column="20" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-common/models/storage-adapter.ts" timestamp="1528148694671" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527867950439">
@@ -138,7 +138,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/videoProxyJobHandler.ts" timestamp="1528146876601">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/videoProxyJobHandler.ts" timestamp="1528152712857">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="59" column="31" />
@@ -218,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIC8vIHRvZG86IHJlbW92ZSB3b3JraW5nIGZvbGRlciByZWN1cnNpdmVseSBpbnN0ZWFkIG9mIGRlbGV0aW5nIGluZGl2aWR1YWwgZmlsZXMuCiAgICAgICAgICBpZiAobWVzc2FnZS5hdWRpb1Byb3h5RmlsZU5hbWUpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ1JlbW92aW5nIGF1ZGlvIHByb3h5Jyk7CiAgICAgICAgICAgIGZzLnVubGlua1N5bmMobWVzc2FnZS5hdWRpb1Byb3h5RmlsZU5hbWUpOwogICAgICAgICAgfQ==</text>
+        <text encoding="base64">eyBkZWZhdWx0IGFzIEluZ2VzdEpvYlBheWxvYWQgfSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">eyBkZWZhdWx0IGFzIEluZ2VzdEpvYlBheWxvYWQgfSA=</text>
       </register>
       <register name="/" type="4">
         <text>rm</text>
