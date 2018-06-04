@@ -41,19 +41,19 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1528144079130">
-        <mark key="[" line="100" column="10" />
-        <mark key="]" line="100" column="13" />
-        <mark key="." line="100" column="13" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1528146745763">
+        <mark key="[" line="35" column="74" />
+        <mark key="]" line="35" column="75" />
+        <mark key="." line="35" column="75" />
         <mark key="^" line="100" column="13" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/storageController.ts" timestamp="1528137542093" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/toolsApi/storageAdaptorService.ts" timestamp="1528141570097">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/toolsApi/storageAdaptorService.ts" timestamp="1528147110106">
         <mark key="'" line="5" column="56" />
-        <mark key="[" line="0" column="76" />
-        <mark key="]" line="0" column="76" />
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="56" />
         <mark key="^" line="6" column="18" />
-        <mark key="." line="0" column="76" />
+        <mark key="." line="5" column="56" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/queueUtils.ts" timestamp="1527886430581">
         <mark key="[" line="80" column="77" />
@@ -130,11 +130,11 @@
         <mark key="." line="29" column="6" />
         <mark key="^" line="29" column="6" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/lib/s3Helper.ts" timestamp="1528140686262">
-        <mark key="[" line="0" column="56" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="21" />
-        <mark key="^" line="33" column="21" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/lib/s3Helper.ts" timestamp="1528146706516">
+        <mark key="[" line="14" column="98" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/handlers/ingest/timedTextJobHandler.spec.ts" timestamp="1527884963314">
         <mark key="[" line="62" column="0" />
@@ -146,7 +146,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528140156711">
+      <file name="/JavaScript Console" timestamp="1528147371835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/index.ts" timestamp="1528129413416" />
@@ -157,7 +157,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/videoProxyJobHandler.ts" timestamp="1528141137285">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/videoProxyJobHandler.ts" timestamp="1528146876601">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="59" column="31" />
@@ -169,6 +169,12 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/amqpUtils.ts" timestamp="1528147166648">
+        <mark key="[" line="41" column="63" />
+        <mark key="]" line="41" column="71" />
+        <mark key="^" line="41" column="71" />
+        <mark key="." line="41" column="71" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/searchSync/searchSyncDispatcher.ts" timestamp="1528143867736" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1528143516236">
@@ -221,10 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>trace</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>trace</text>
+        <text>?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJy4vdG9vbHNBeGlvcyc7Cg==</text>
