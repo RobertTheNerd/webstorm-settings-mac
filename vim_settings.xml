@@ -100,6 +100,12 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
+      <file name="$USER_HOME$/devel/iris/iris-client/src/config.ts" timestamp="1528232234241">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="60" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/metadataScrapeJobHandler.ts" timestamp="1528141105089">
         <mark key="[" line="34" column="30" />
       </file>
@@ -228,11 +234,11 @@
       <jump line="26" column="10" filename="$USER_HOME$/devel/iris/iris-queue-processor/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>logFactory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>logFactory</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>rm</text>
@@ -246,33 +252,29 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmNvbnN0IG15Rm9ybWF0ID0gcHJpbnRmKGluZm8gPT4gewogIHJldHVybiBgJHtpbmZvLnRpbWVzdGFtcH0gWyR7aW5mby5sYWJlbH1dICR7aW5mby5sZXZlbH06ICR7aW5mby5tZXNzYWdlfWA7Cn0pOwoKZnVuY3Rpb24gY3JlYXRlTG9nZ2VyKG1vZHVsZSkgewogIGNvbnN0IGZvbGRlciA9IG1vZHVsZS5maWxlbmFtZS5zcGxpdCgnLycpLnNsaWNlKC0yKS5qb2luKCcvJyk7CgogIGNvbnN0IGZpbGVuYW1lID0gY29uZmlnLmFtcXBDb25maWcud29ya2VyUXVldWUgKyAnLmxvZyc7CgogIHJldHVybiB3aW5zdG9uLmNyZWF0ZUxvZ2dlcih7CiAgICBsZXZlbDogJ2luZm8nLAogICAgZm9ybWF0OiBjb21iaW5lKAogICAgICBsYWJlbCh7bGFiZWw6IGZvbGRlcn0pLAogICAgICB0aW1lc3RhbXAoKSwKICAgICAgbXlGb3JtYXQKICAgICksCiAgICB0cmFuc3BvcnRzOiBbCiAgICAgIG5ldyB3aW5zdG9uLnRyYW5zcG9ydHMuQ29uc29sZSh7CiAgICAgICAgY29sb3JpemU6IHRydWUsCiAgICAgICAgbGFiZWw6IGZvbGRlciwKICAgICAgICBsZXZlbDogJ2RlYnVnJywKICAgICAgfSksCiAgICAgIG5ldyB3aW5zdG9uLnRyYW5zcG9ydHMuRmlsZSh7CiAgICAgICAgZmlsZW5hbWU6IGZpbGVuYW1lLAogICAgICAgIGxldmVsOiAnZGVidWcnLAogICAgICAgIG1heHNpemU6IDEwICogMTAwMCAqIDEwMDAsIC8vIDEwTUIKICAgICAgICBtYXhGaWxlczogMTAyNCwKICAgICAgICB0YWlsYWJsZTogdHJ1ZSwKICAgICAgfSkKICAgIF0sCiAgICBleGl0T25FcnJvcjogZmFsc2UKICB9KTsKfQ==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CmNvbnN0IG15Rm9ybWF0ID0gcHJpbnRmKGluZm8gPT4gewogIHJldHVybiBgJHtpbmZvLnRpbWVzdGFtcH0gWyR7aW5mby5sYWJlbH1dICR7aW5mby5sZXZlbH06ICR7aW5mby5tZXNzYWdlfWA7Cn0pOwoKZnVuY3Rpb24gY3JlYXRlTG9nZ2VyKG1vZHVsZSkgewogIGNvbnN0IGZvbGRlciA9IG1vZHVsZS5maWxlbmFtZS5zcGxpdCgnLycpLnNsaWNlKC0yKS5qb2luKCcvJyk7CgogIGNvbnN0IGZpbGVuYW1lID0gY29uZmlnLmFtcXBDb25maWcud29ya2VyUXVldWUgKyAnLmxvZyc7CgogIHJldHVybiB3aW5zdG9uLmNyZWF0ZUxvZ2dlcih7CiAgICBsZXZlbDogJ2luZm8nLAogICAgZm9ybWF0OiBjb21iaW5lKAogICAgICBsYWJlbCh7bGFiZWw6IGZvbGRlcn0pLAogICAgICB0aW1lc3RhbXAoKSwKICAgICAgbXlGb3JtYXQKICAgICksCiAgICB0cmFuc3BvcnRzOiBbCiAgICAgIG5ldyB3aW5zdG9uLnRyYW5zcG9ydHMuQ29uc29sZSh7CiAgICAgICAgY29sb3JpemU6IHRydWUsCiAgICAgICAgbGFiZWw6IGZvbGRlciwKICAgICAgICBsZXZlbDogJ2RlYnVnJywKICAgICAgfSksCiAgICAgIG5ldyB3aW5zdG9uLnRyYW5zcG9ydHMuRmlsZSh7CiAgICAgICAgZmlsZW5hbWU6IGZpbGVuYW1lLAogICAgICAgIGxldmVsOiAnZGVidWcnLAogICAgICAgIG1heHNpemU6IDEwICogMTAwMCAqIDEwMDAsIC8vIDEwTUIKICAgICAgICBtYXhGaWxlczogMTAyNCwKICAgICAgICB0YWlsYWJsZTogdHJ1ZSwKICAgICAgfSkKICAgIF0sCiAgICBleGl0T25FcnJvcjogZmFsc2UKICB9KTsKfQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">Y29uc3QgbXlGb3JtYXQgPSBwcmludGYoaW5mbyA9PiB7CiAgcmV0dXJuIGAke2luZm8udGltZXN0YW1wfSBbJHtpbmZvLmxhYmVsfV0gJHtpbmZvLmxldmVsfTogJHtpbmZvLm1lc3NhZ2V9YDsKfSk7CgpmdW5jdGlvbiBjcmVhdGVMb2dnZXIobW9kdWxlKSB7CiAgY29uc3QgZm9sZGVyID0gbW9kdWxlLmZpbGVuYW1lLnNwbGl0KCcvJykuc2xpY2UoLTIpLmpvaW4oJy8nKTsKCiAgY29uc3QgZmlsZW5hbWUgPSBjb25maWcuYW1xcENvbmZpZy53b3JrZXJRdWV1ZSArICcubG9nJzsKCiAgcmV0dXJuIHdpbnN0b24uY3JlYXRlTG9nZ2VyKHsKICAgIGxldmVsOiAnaW5mbycsCiAgICBmb3JtYXQ6IGNvbWJpbmUoCiAgICAgIGxhYmVsKHtsYWJlbDogZm9sZGVyfSksCiAgICAgIHRpbWVzdGFtcCgpLAogICAgICBteUZvcm1hdAogICAgKSwKICAgIHRyYW5zcG9ydHM6IFsKICAgICAgbmV3IHdpbnN0b24udHJhbnNwb3J0cy5Db25zb2xlKHsKICAgICAgICBjb2xvcml6ZTogdHJ1ZSwKICAgICAgICBsYWJlbDogZm9sZGVyLAogICAgICAgIGxldmVsOiAnZGVidWcnLAogICAgICB9KSwKICAgICAgbmV3IHdpbnN0b24udHJhbnNwb3J0cy5GaWxlKHsKICAgICAgICBmaWxlbmFtZTogZmlsZW5hbWUsCiAgICAgICAgbGV2ZWw6ICdkZWJ1ZycsCiAgICAgICAgbWF4c2l6ZTogMTAgKiAxMDAwICogMTAwMCwgLy8gMTBNQgogICAgICAgIG1heEZpbGVzOiAxMDI0LAogICAgICAgIHRhaWxhYmxlOiB0cnVlLAogICAgICB9KQogICAgXSwKICAgIGV4aXRPbkVycm9yOiBmYWxzZQogIH0pOwp9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y29uc3Qge2NvbWJpbmUsIHRpbWVzdGFtcCwgbGFiZWwsIHByaW50ZiwgcHJldHR5UHJpbnR9ID0gd2luc3Rvbi5mb3JtYXQ7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgd2luc3RvbiBmcm9tICd3aW5zdG9uJzsK</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
- * Allow simple calls like logger.error(err) which is equivalt to logger.error(err.stack || err);
- * @param obj
- * @param {string} funcName
- */</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -287,8 +289,8 @@
         <entry>rm</entry>
       </history-search>
       <history-cmd>
-        <entry>x</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
