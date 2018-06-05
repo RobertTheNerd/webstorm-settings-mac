@@ -3,6 +3,8 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -16,6 +18,13 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextError" />
   <action id="JumpToLastWindow" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt slash" />
@@ -23,6 +32,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
@@ -36,6 +48,12 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="meta f11" />
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="ViewSource" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
