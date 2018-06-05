@@ -24,7 +24,7 @@
         <mark key="^" line="45" column="41" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/logger/logger.ts" timestamp="1528224808990">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/logger/logger.ts" timestamp="1528235902194">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
@@ -49,17 +49,7 @@
         <mark key="^" line="21" column="63" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1528228991175">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="73" />
         <mark key="^" line="103" column="13" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/loudnessAnalysisJob.ts" timestamp="1528151482255">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="35" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/messageHandlerFactory.ts" timestamp="1528151046084">
         <mark key="[" line="41" column="23" />
@@ -145,6 +135,9 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
+      <file name="/JavaScript Console" timestamp="1528235909760">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/ingestJobHandlerBase.ts" timestamp="1528141747625">
         <mark key="[" line="23" column="3" />
         <mark key="]" line="23" column="4" />
@@ -168,13 +161,6 @@
         <mark key="]" line="41" column="71" />
         <mark key="^" line="41" column="71" />
         <mark key="." line="41" column="71" />
-      </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/package.json" timestamp="1528151705132">
-        <mark key="'" line="26" column="10" />
-        <mark key="[" line="19" column="89" />
-        <mark key="]" line="19" column="89" />
-        <mark key="^" line="48" column="27" />
-        <mark key="." line="19" column="89" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/queueProcessor.ts" timestamp="1528143647621">
         <mark key="[" line="52" column="64" />
@@ -212,7 +198,7 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/logger.ts" timestamp="1528229133578">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/logger.ts" timestamp="1528236011877">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
