@@ -48,11 +48,11 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1528149303369">
-        <mark key="[" line="35" column="74" />
-        <mark key="]" line="35" column="75" />
-        <mark key="." line="35" column="75" />
-        <mark key="^" line="100" column="13" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1528226278211">
+        <mark key="[" line="23" column="73" />
+        <mark key="]" line="23" column="73" />
+        <mark key="." line="23" column="73" />
+        <mark key="^" line="103" column="13" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/loudnessAnalysisJob.ts" timestamp="1528151482255">
         <mark key="'" line="20" column="38" />
@@ -230,10 +230,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgbXlGb3JtYXQgPSBwcmludGYoaW5mbyA9PiB7CiAgcmV0dXJuIGAke2luZm8udGltZXN0YW1wfSBbJHtpbmZvLmxhYmVsfV0gJHtpbmZvLmxldmVsfTogJHtpbmZvLm1lc3NhZ2V9YDsKfSk7CgpmdW5jdGlvbiBjcmVhdGVMb2dnZXIobW9kdWxlKSB7CiAgY29uc3QgZm9sZGVyID0gbW9kdWxlLmZpbGVuYW1lLnNwbGl0KCcvJykuc2xpY2UoLTIpLmpvaW4oJy8nKTsKCiAgY29uc3QgZmlsZW5hbWUgPSBjb25maWcuYW1xcENvbmZpZy53b3JrZXJRdWV1ZSArICcubG9nJzsKCiAgcmV0dXJuIHdpbnN0b24uY3JlYXRlTG9nZ2VyKHsKICAgIGxldmVsOiAnaW5mbycsCiAgICBmb3JtYXQ6IGNvbWJpbmUoCiAgICAgIGxhYmVsKHtsYWJlbDogZm9sZGVyfSksCiAgICAgIHRpbWVzdGFtcCgpLAogICAgICBteUZvcm1hdAogICAgKSwKICAgIHRyYW5zcG9ydHM6IFsKICAgICAgbmV3IHdpbnN0b24udHJhbnNwb3J0cy5Db25zb2xlKHsKICAgICAgICBjb2xvcml6ZTogdHJ1ZSwKICAgICAgICBsYWJlbDogZm9sZGVyLAogICAgICAgIGxldmVsOiAnZGVidWcnLAogICAgICB9KSwKICAgICAgbmV3IHdpbnN0b24udHJhbnNwb3J0cy5GaWxlKHsKICAgICAgICBmaWxlbmFtZTogZmlsZW5hbWUsCiAgICAgICAgbGV2ZWw6ICdkZWJ1ZycsCiAgICAgICAgbWF4c2l6ZTogMTAgKiAxMDAwICogMTAwMCwgLy8gMTBNQgogICAgICAgIG1heEZpbGVzOiAxMDI0LAogICAgICAgIHRhaWxhYmxlOiB0cnVlLAogICAgICB9KQogICAgXSwKICAgIGV4aXRPbkVycm9yOiBmYWxzZQogIH0pOwp9</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>rm</text>
@@ -241,36 +241,36 @@
       <register name="0" type="2">
         <text encoding="base64">c2V0Q29uZmlnID0gKGNvbmZpZzogTG9nQ29uZmlnKSA9PiB7CiAgXy5tZXJnZShsb2dDb25maWcsIGNvbmZpZyk7Cn07Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Y29uc3QgbXlGb3JtYXQgPSBwcmludGYoaW5mbyA9PiB7CiAgcmV0dXJuIGAke2luZm8udGltZXN0YW1wfSBbJHtpbmZvLmxhYmVsfV0gJHtpbmZvLmxldmVsfTogJHtpbmZvLm1lc3NhZ2V9YDsKfSk7CgpmdW5jdGlvbiBjcmVhdGVMb2dnZXIobW9kdWxlKSB7CiAgY29uc3QgZm9sZGVyID0gbW9kdWxlLmZpbGVuYW1lLnNwbGl0KCcvJykuc2xpY2UoLTIpLmpvaW4oJy8nKTsKCiAgY29uc3QgZmlsZW5hbWUgPSBjb25maWcuYW1xcENvbmZpZy53b3JrZXJRdWV1ZSArICcubG9nJzsKCiAgcmV0dXJuIHdpbnN0b24uY3JlYXRlTG9nZ2VyKHsKICAgIGxldmVsOiAnaW5mbycsCiAgICBmb3JtYXQ6IGNvbWJpbmUoCiAgICAgIGxhYmVsKHtsYWJlbDogZm9sZGVyfSksCiAgICAgIHRpbWVzdGFtcCgpLAogICAgICBteUZvcm1hdAogICAgKSwKICAgIHRyYW5zcG9ydHM6IFsKICAgICAgbmV3IHdpbnN0b24udHJhbnNwb3J0cy5Db25zb2xlKHsKICAgICAgICBjb2xvcml6ZTogdHJ1ZSwKICAgICAgICBsYWJlbDogZm9sZGVyLAogICAgICAgIGxldmVsOiAnZGVidWcnLAogICAgICB9KSwKICAgICAgbmV3IHdpbnN0b24udHJhbnNwb3J0cy5GaWxlKHsKICAgICAgICBmaWxlbmFtZTogZmlsZW5hbWUsCiAgICAgICAgbGV2ZWw6ICdkZWJ1ZycsCiAgICAgICAgbWF4c2l6ZTogMTAgKiAxMDAwICogMTAwMCwgLy8gMTBNQgogICAgICAgIG1heEZpbGVzOiAxMDI0LAogICAgICAgIHRhaWxhYmxlOiB0cnVlLAogICAgICB9KQogICAgXSwKICAgIGV4aXRPbkVycm9yOiBmYWxzZQogIH0pOwp9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Y29uc3Qge2NvbWJpbmUsIHRpbWVzdGFtcCwgbGFiZWwsIHByaW50ZiwgcHJldHR5UHJpbnR9ID0gd2luc3Rvbi5mb3JtYXQ7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgd2luc3RvbiBmcm9tICd3aW5zdG9uJzsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
  * Allow simple calls like logger.error(err) which is equivalt to logger.error(err.stack || err);
  * @param obj
  * @param {string} funcName
  */</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxldmVsOiAoY29uZmlnLmVudmlyb21lbnQgPT0gRW52aXJvbWVudC5EZXYpID8gJ2RlYnVnJyA6ICdpbmZvJywK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c2V0Q29uZmlnID0gKGNvbmZpZzogTG9nQ29uZmlnKSA9PiB7CiAgXy5tZXJnZShsb2dDb25maWcsIGNvbmZpZyk7Cn07Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgIC8vIHRvZG86IHJlbW92ZSB3b3JraW5nIGZvbGRlciByZWN1cnNpdmVseSBpbnN0ZWFkIG9mIGRlbGV0aW5nIGluZGl2aWR1YWwgZmlsZXMuCiAgICAgICAgICBpZiAobWVzc2FnZS5hdWRpb1Byb3h5RmlsZU5hbWUpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ1JlbW92aW5nIGF1ZGlvIHByb3h5Jyk7CiAgICAgICAgICAgIGZzLnVubGlua1N5bmMobWVzc2FnZS5hdWRpb1Byb3h5RmlsZU5hbWUpOwogICAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
