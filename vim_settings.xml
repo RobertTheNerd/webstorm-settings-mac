@@ -24,11 +24,11 @@
         <mark key="^" line="45" column="41" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/logger/logger.ts" timestamp="1528235902194">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="6" column="31" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/logger/logger.ts" timestamp="1528238271228">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/handlers/ingest/videoProxyJobHandler.spec.ts" timestamp="1528141854623">
         <mark key="[" line="3" column="0" />
@@ -57,8 +57,11 @@
         <mark key="^" line="40" column="44" />
         <mark key="." line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/logger.ts" timestamp="1528216037446">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/logger.ts" timestamp="1528239187479">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/clipProjectController.ts" timestamp="1527868597958">
         <mark key="[" line="36" column="25" />
@@ -72,7 +75,7 @@
         <mark key="." line="42" column="32" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1527886487646">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1528239062479">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="16" column="38" />
         <mark key="^" line="16" column="38" />
@@ -111,7 +114,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="43" column="92" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1527891611366">
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1528239161393">
         <mark key="[" line="35" column="93" />
         <mark key="]" line="35" column="93" />
         <mark key="^" line="40" column="53" />
@@ -168,11 +171,10 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="52" column="72" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/logger/index.ts" timestamp="1528215263969">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/logger/index.ts" timestamp="1528238235456">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/test/handlers/ingest/audioProxyJobHandler.spec.ts" timestamp="1527884922189">
         <mark key="[" line="46" column="0" />
@@ -198,16 +200,23 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/logger.ts" timestamp="1528236011877">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/logger.ts" timestamp="1528238707630">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="5" column="65" />
+        <mark key="." line="5" column="65" />
+        <mark key="^" line="5" column="65" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/toolsApi/itemService.ts" timestamp="1528150248694">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="37" />
         <mark key="." line="21" column="37" />
         <mark key="^" line="21" column="32" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/startup.sh" timestamp="1528239164185">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -221,28 +230,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJzsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>IRIS_STREAMING_ENGINE_SERVICE_URL</text>
       </register>
       <register name="/" type="4">
         <text>rm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0Q29uZmlnID0gKGNvbmZpZzogTG9nQ29uZmlnKSA9PiB7CiAgXy5tZXJnZShsb2dDb25maWcsIGNvbmZpZyk7Cn07Cg==</text>
+        <text encoding="base64">SVJJU19TVFJFQU1JTkdfRU5HSU5FX1NFUlZJQ0VfVVJMPSdodHRwczovL2lyaXMtcHJvZDAxLm1lZGlhcGlwZS5jb20vdjEnIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICIuLi9jb25maWciOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmNvbnN0IG15Rm9ybWF0ID0gcHJpbnRmKGluZm8gPT4gewogIHJldHVybiBgJHtpbmZvLnRpbWVzdGFtcH0gWyR7aW5mby5sYWJlbH1dICR7aW5mby5sZXZlbH06ICR7aW5mby5tZXNzYWdlfWA7Cn0pOwoKZnVuY3Rpb24gY3JlYXRlTG9nZ2VyKG1vZHVsZSkgewogIGNvbnN0IGZvbGRlciA9IG1vZHVsZS5maWxlbmFtZS5zcGxpdCgnLycpLnNsaWNlKC0yKS5qb2luKCcvJyk7CgogIGNvbnN0IGZpbGVuYW1lID0gY29uZmlnLmFtcXBDb25maWcud29ya2VyUXVldWUgKyAnLmxvZyc7CgogIHJldHVybiB3aW5zdG9uLmNyZWF0ZUxvZ2dlcih7CiAgICBsZXZlbDogJ2luZm8nLAogICAgZm9ybWF0OiBjb21iaW5lKAogICAgICBsYWJlbCh7bGFiZWw6IGZvbGRlcn0pLAogICAgICB0aW1lc3RhbXAoKSwKICAgICAgbXlGb3JtYXQKICAgICksCiAgICB0cmFuc3BvcnRzOiBbCiAgICAgIG5ldyB3aW5zdG9uLnRyYW5zcG9ydHMuQ29uc29sZSh7CiAgICAgICAgY29sb3JpemU6IHRydWUsCiAgICAgICAgbGFiZWw6IGZvbGRlciwKICAgICAgICBsZXZlbDogJ2RlYnVnJywKICAgICAgfSksCiAgICAgIG5ldyB3aW5zdG9uLnRyYW5zcG9ydHMuRmlsZSh7CiAgICAgICAgZmlsZW5hbWU6IGZpbGVuYW1lLAogICAgICAgIGxldmVsOiAnZGVidWcnLAogICAgICAgIG1heHNpemU6IDEwICogMTAwMCAqIDEwMDAsIC8vIDEwTUIKICAgICAgICBtYXhGaWxlczogMTAyNCwKICAgICAgICB0YWlsYWJsZTogdHJ1ZSwKICAgICAgfSkKICAgIF0sCiAgICBleGl0T25FcnJvcjogZmFsc2UKICB9KTsKfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">bG9nRmFjdG9yeS5zZXRDb25maWcoewogIGxvZ0ZpbGU6IHBhdGguam9pbihjb25maWcubG9nZ2luZy5sb2dGb2xkZXIsIGNvbmZpZy5hbXFwQ29uZmlnLndvcmtlclF1ZXVlICsgJy5sb2cnKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -250,17 +259,17 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y29uc3QgbXlGb3JtYXQgPSBwcmludGYoaW5mbyA9PiB7CiAgcmV0dXJuIGAke2luZm8udGltZXN0YW1wfSBbJHtpbmZvLmxhYmVsfV0gJHtpbmZvLmxldmVsfTogJHtpbmZvLm1lc3NhZ2V9YDsKfSk7CgpmdW5jdGlvbiBjcmVhdGVMb2dnZXIobW9kdWxlKSB7CiAgY29uc3QgZm9sZGVyID0gbW9kdWxlLmZpbGVuYW1lLnNwbGl0KCcvJykuc2xpY2UoLTIpLmpvaW4oJy8nKTsKCiAgY29uc3QgZmlsZW5hbWUgPSBjb25maWcuYW1xcENvbmZpZy53b3JrZXJRdWV1ZSArICcubG9nJzsKCiAgcmV0dXJuIHdpbnN0b24uY3JlYXRlTG9nZ2VyKHsKICAgIGxldmVsOiAnaW5mbycsCiAgICBmb3JtYXQ6IGNvbWJpbmUoCiAgICAgIGxhYmVsKHtsYWJlbDogZm9sZGVyfSksCiAgICAgIHRpbWVzdGFtcCgpLAogICAgICBteUZvcm1hdAogICAgKSwKICAgIHRyYW5zcG9ydHM6IFsKICAgICAgbmV3IHdpbnN0b24udHJhbnNwb3J0cy5Db25zb2xlKHsKICAgICAgICBjb2xvcml6ZTogdHJ1ZSwKICAgICAgICBsYWJlbDogZm9sZGVyLAogICAgICAgIGxldmVsOiAnZGVidWcnLAogICAgICB9KSwKICAgICAgbmV3IHdpbnN0b24udHJhbnNwb3J0cy5GaWxlKHsKICAgICAgICBmaWxlbmFtZTogZmlsZW5hbWUsCiAgICAgICAgbGV2ZWw6ICdkZWJ1ZycsCiAgICAgICAgbWF4c2l6ZTogMTAgKiAxMDAwICogMTAwMCwgLy8gMTBNQgogICAgICAgIG1heEZpbGVzOiAxMDI0LAogICAgICAgIHRhaWxhYmxlOiB0cnVlLAogICAgICB9KQogICAgXSwKICAgIGV4aXRPbkVycm9yOiBmYWxzZQogIH0pOwp9</text>
+      <register name="7" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qge2NvbWJpbmUsIHRpbWVzdGFtcCwgbGFiZWwsIHByaW50ZiwgcHJldHR5UHJpbnR9ID0gd2luc3Rvbi5mb3JtYXQ7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgTG9nIGZpbGU6ICR7bG9nQ29uZmlnLmxvZ0ZpbGV9LCBMb2cgZm9sZGVyOiAke2xvZ0Rpcn1gKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgd2luc3RvbiBmcm9tICd3aW5zdG9uJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2cgY29uZmlnOicsIGxvZ0NvbmZpZyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -275,8 +284,8 @@
         <entry>rm</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
