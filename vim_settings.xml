@@ -7,6 +7,11 @@
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/jobRepository.ts" timestamp="1528132672132">
         <mark key="[" line="109" column="18" />
       </file>
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/itemRelationshipController.ts" timestamp="1528326971764">
+        <mark key="[" line="34" column="89" />
+        <mark key="]" line="34" column="89" />
+        <mark key="." line="34" column="89" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1528322983235">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -50,7 +55,7 @@
         <mark key="." line="91" column="11" />
       </file>
       <file name="/config.ts" timestamp="1528297232590" />
-      <file name="/JavaScript Console" timestamp="1528300294892">
+      <file name="/JavaScript Console" timestamp="1528326867055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/storageRepository.spec.ts" timestamp="1528297691709" />
@@ -79,10 +84,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ip-10-192-128-7.ec2.internal</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>ip-10-192-128-7.ec2.internal</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>rm</text>
