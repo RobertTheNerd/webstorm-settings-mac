@@ -78,11 +78,11 @@
         <mark key="." line="42" column="32" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1528240758211">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="16" column="38" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1528316412520">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="23" />
         <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/contentPoolRepository.ts" timestamp="1528314547228" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/services/toolsApi/index.ts" timestamp="1528141734149">
@@ -231,11 +231,11 @@
       <jump line="26" column="10" filename="$USER_HOME$/devel/iris/iris-queue-processor/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ip-10-192-128-7.ec2.internal</text>
       </register>
       <register name="-" type="4">
-        <text>createLogger</text>
+        <text>ip-10-192-128-7.ec2.internal</text>
       </register>
       <register name="/" type="4">
         <text>rm</text>
