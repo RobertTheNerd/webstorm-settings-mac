@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/devel/iris/iris-client/lib/iris-tools-common/models/job.ts" timestamp="1528240809426" />
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/logger/logSetting.ts" timestamp="1528213596096">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -42,7 +43,7 @@
         <mark key="^" line="107" column="20" />
         <mark key="." line="107" column="20" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1527867950439">
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1528240821531">
         <mark key="[" line="88" column="43" />
         <mark key="]" line="21" column="63" />
         <mark key="." line="21" column="63" />
@@ -75,7 +76,7 @@
         <mark key="." line="42" column="32" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1528239062479">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1528240758211">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="16" column="38" />
         <mark key="^" line="16" column="38" />
@@ -138,7 +139,7 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528235909760">
+      <file name="/JavaScript Console" timestamp="1528240956989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/ingestJobHandlerBase.ts" timestamp="1528141747625">
