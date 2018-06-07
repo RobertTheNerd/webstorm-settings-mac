@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/searchSync/index.ts" timestamp="1528385080087">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-client/lib/iris-tools-common/models/job.ts" timestamp="1528240809426" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/jobRepository.ts" timestamp="1528132672132">
         <mark key="[" line="109" column="18" />
@@ -12,17 +18,24 @@
         <mark key="]" line="34" column="89" />
         <mark key="." line="34" column="89" />
       </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/conformMasterMessageHandler.ts" timestamp="1528385324391" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1528322983235">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
       <file name="/ingestController.ts" timestamp="1528320389928" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/messageHandlerFactory.ts" timestamp="1528381801314">
-        <mark key="[" line="41" column="23" />
-        <mark key="]" line="41" column="23" />
-        <mark key="^" line="40" column="44" />
-        <mark key="." line="41" column="23" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1528385041576">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="43" column="4" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/messageHandlerFactory.ts" timestamp="1528385187238">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/queueUtils.ts" timestamp="1528314027805">
         <mark key="[" line="78" column="4" />
@@ -30,13 +43,15 @@
         <mark key="." line="78" column="4" />
       </file>
       <file name="/contentPoolRepository.ts" timestamp="1528314591733" />
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/logger.ts" timestamp="1528298202220">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/storageRepository.spec.ts" timestamp="1528297694015" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" timestamp="1528319200779">
         <mark key="[" line="13" column="145" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/index.ts" timestamp="1528384816580">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+        <mark key="^" line="47" column="20" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1528316412520">
         <mark key="[" line="17" column="23" />
@@ -65,7 +80,20 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/storageRepository.spec.ts" timestamp="1528297691709" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/index.ts" timestamp="1528382688109" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/index.ts" timestamp="1528385097424">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
       <file name="/channelController.ts" timestamp="1528297381199" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/accountController.ts" timestamp="1528385544540" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/ingest/index.ts" timestamp="1528385029932">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/lib/iris-tools-utils/lib/logger/index.ts" timestamp="1528238235456">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -76,6 +104,9 @@
         <mark key="]" line="5" column="65" />
         <mark key="." line="5" column="65" />
         <mark key="^" line="5" column="65" />
+      </file>
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/messageHandler.ts" timestamp="1528384664035">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/startup.sh" timestamp="1528293933206" />
     </filemarks>
@@ -90,10 +121,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>elasticSearch</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>elasticSearch</text>
       </register>
       <register name="/" type="4">
         <text>rm</text>
@@ -101,32 +132,45 @@
       <register name="0" type="2">
         <text encoding="base64">SVJJU19TVFJFQU1JTkdfRU5HSU5FX1NFUlZJQ0VfVVJMPSdodHRwczovL2lyaXMtcHJvZDAxLm1lZGlhcGlwZS5jb20vdjEnIFwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>import { IngestJobHandlerNames } from '../../const';
+import LoudnessAnalysisMessageHandler from '../ingest/loudnessAnalysisJob';
+import {
+  AudioProxyJobHandler, MetadataScrapeJobHandler,
+  OrchestrationJobHandler,
+  ThumbnailJobHandler,
+  TimedTextJobHandler,
+  VideoProxyJobHandler
+} from '../ingest';</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnU2VuZGluZyBjb25mb3JtIG1lc3NhZ2UgZm9yIGNoYW5uZWw6JywgcHJvamVjdCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8vIHRvZG86IHB1dCBmdW5jbmFtZSBpbiBoYW5kbGVyPwogICAgcmVnaXN0ZXJJbmdlc3RIYW5kbGVyKEluZ2VzdEpvYkhhbmRsZXJOYW1lcy5PcmNoZXN0cmF0aW9uLCBPcmNoZXN0cmF0aW9uSm9iSGFuZGxlcik7CiAgICByZWdpc3RlckluZ2VzdEhhbmRsZXIoSW5nZXN0Sm9iSGFuZGxlck5hbWVzLk1ldGFkYXRhU2NyYXBlLCBNZXRhZGF0YVNjcmFwZUpvYkhhbmRsZXIpOwogICAgcmVnaXN0ZXJJbmdlc3RIYW5kbGVyKEluZ2VzdEpvYkhhbmRsZXJOYW1lcy5WaWRlb1Byb3h5LCBWaWRlb1Byb3h5Sm9iSGFuZGxlcik7CiAgICByZWdpc3RlckluZ2VzdEhhbmRsZXIoSW5nZXN0Sm9iSGFuZGxlck5hbWVzLlRodW1ibmFpbCwgVGh1bWJuYWlsSm9iSGFuZGxlcik7CiAgICByZWdpc3RlckluZ2VzdEhhbmRsZXIoSW5nZXN0Sm9iSGFuZGxlck5hbWVzLkF1ZGlvUHJveHksIEF1ZGlvUHJveHlKb2JIYW5kbGVyKTsKICAgIHJlZ2lzdGVySW5nZXN0SGFuZGxlcihJbmdlc3RKb2JIYW5kbGVyTmFtZXMuVGltZWRUZXh0LCBUaW1lZFRleHRKb2JIYW5kbGVyKTsKICAgIHJlZ2lzdGVySW5nZXN0SGFuZGxlcihJbmdlc3RKb2JIYW5kbGVyTmFtZXMuTG91ZG5lc3MsIExvdWRuZXNzQW5hbHlzaXNNZXNzYWdlSGFuZGxlcik7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IHNlZ21lbnRzID0gbWVzc2FnZVR5cGUuc3BsaXQoIjoiKTsKICAgIGNvbnN0IG5hbWVzcGFjZSA9IChzZWdtZW50c1swXSkgPyBzZWdtZW50c1swXS50b0xvd2VyQ2FzZSgpIDogIiI7CiAgICBjb25zdCBmdW5jTmFtZSA9IChzZWdtZW50c1sxXSkgPyBzZWdtZW50c1sxXS50b0xvd2VyQ2FzZSgpIDogIiI7CgogICAgc3dpdGNoIChuYW1lc3BhY2UpIHsKICAgICAgY2FzZSAnaW5nZXN0JzoKICAgICAgICAvLyB0b2RvOiByZXBsYWNlIHdpdGggbWFwCiAgICAgICAgc3dpdGNoIChmdW5jTmFtZSkgewogICAgICAgICAgY2FzZSBJbmdlc3RKb2JIYW5kbGVyTmFtZXMuT3JjaGVzdHJhdGlvbi50b0xvd2VyQ2FzZSgpOgogICAgICAgICAgICByZXR1cm4gbmV3IE9yY2hlc3RyYXRpb25Kb2JIYW5kbGVyKCk7CiAgICAgICAgICBjYXNlIEluZ2VzdEpvYkhhbmRsZXJOYW1lcy5NZXRhZGF0YVNjcmFwZS50b0xvd2VyQ2FzZSgpOgogICAgICAgICAgICByZXR1cm4gbmV3IE1ldGFkYXRhU2NyYXBlSm9iSGFuZGxlcigpOwogICAgICAgICAgY2FzZSBJbmdlc3RKb2JIYW5kbGVyTmFtZXMuVmlkZW9Qcm94eS50b0xvd2VyQ2FzZSgpOgogICAgICAgICAgICByZXR1cm4gbmV3IFZpZGVvUHJveHlKb2JIYW5kbGVyKCk7CiAgICAgICAgICBjYXNlIEluZ2VzdEpvYkhhbmRsZXJOYW1lcy5UaHVtYm5haWwudG9Mb3dlckNhc2UoKToKICAgICAgICAgICAgcmV0dXJuIG5ldyBUaHVtYm5haWxKb2JIYW5kbGVyKCk7CiAgICAgICAgICBjYXNlIEluZ2VzdEpvYkhhbmRsZXJOYW1lcy5BdWRpb1Byb3h5LnRvTG93ZXJDYXNlKCk6CiAgICAgICAgICAgIHJldHVybiBuZXcgQXVkaW9Qcm94eUpvYkhhbmRsZXIoKTsKICAgICAgICAgIGNhc2UgSW5nZXN0Sm9iSGFuZGxlck5hbWVzLlRpbWVkVGV4dC50b0xvd2VyQ2FzZSgpOgogICAgICAgICAgICByZXR1cm4gbmV3IFRpbWVkVGV4dEpvYkhhbmRsZXIoKTsKICAgICAgICAgIGNhc2UgSW5nZXN0Sm9iSGFuZGxlck5hbWVzLkxvdWRuZXNzLnRvTG93ZXJDYXNlKCk6CiAgICAgICAgICAgIHJldHVybiBuZXcgTG91ZG5lc3NBbmFseXNpc01lc3NhZ2VIYW5kbGVyKCk7CiAgICAgICAgfQogICAgICAgIGJyZWFrOwogICAgICBjYXNlICdjaGFubmVscHJlcCc6CiAgICAgICAgc3dpdGNoIChmdW5jTmFtZSkgewogICAgICAgICAgY2FzZSBDaGFubmVsUHJlcEpvYkhhbmxkZXJOYW1lcy5Db25kaXRpb24udG9Mb3dlckNhc2UoKToKICAgICAgICAgICAgcmV0dXJuIG5ldyBDb25kaXRpb25Kb2JIYW5kbGVyKCk7CiAgICAgICAgfQogICAgICAgIGJyZWFrOwogICAgICBjYXNlICdjb25mb3JtJzoKICAgICAgICByZXR1cm4gbmV3IENvbmZvcm1NYXN0ZXJNZXNzYWdlSGFuZGxlcihmdW5jTmFtZSk7CiAgICAgIGNhc2UgJ2Vzc3luYyc6CiAgICAgICAgcmV0dXJuIG5ldyBTZWFyY2hTeW5jRGlzcGF0Y2hlcigpOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAnY2gK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IGNyZWF0ZUVsYXN0aWNTZWFyY2hTeW5jTWVzc2FnZSA9IGZ1bmN0aW9uKHNlYXJjaEluZGV4OiBTZWFyY2hJbmRleCwK</text>
+      <register name="5" type="4">
+        <text>annelprep':
+        switch (funcName) {
+          case ChannelPrepJobHanlderNames.Condition.toLowerCase():
+            return new ConditionJobHandler();
+        }
+        break;</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYW1xcCBmcm9tICdhbXFwbGliJzsK</text>
+        <text encoding="base64">ICAgIGlmIChoYW5kbGVyTWFwcGluZ1ttZXNzYWdlVHlwZV0gJiYgaGFuZGxlck1hcHBpbmdbbWVzc2FnZVR5cGVdICE9PSBoYW5kbGVyQ2xhc3MpIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aCBmcm9tICdwYXRoJzsK</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnU2VuZGluZyBjb25mb3JtIG1lc3NhZ2UgZm9yIGNoYW5uZWw6JywgcHJvamVjdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
