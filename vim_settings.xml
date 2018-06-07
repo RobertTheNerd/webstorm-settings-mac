@@ -84,7 +84,7 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/startup.sh" timestamp="1528412634277">
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/startup.sh" timestamp="1528413549205">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
@@ -124,7 +124,7 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/lib/logger/logConfig.ts" timestamp="1528401442065" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/lib/logger/logConfig.ts" timestamp="1528413597930" />
       <file name="$USER_HOME$/devel/iris/iris-client/src/config.ts" timestamp="1528319760319">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
