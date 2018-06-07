@@ -28,11 +28,11 @@
         <mark key="." line="42" column="32" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1528316412520">
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/startup.sh" timestamp="1528412014384">
         <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="17" column="23" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/contentPoolRepository.ts" timestamp="1528404362276">
         <mark key="[" line="11" column="0" />
@@ -84,7 +84,12 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/startup.sh" timestamp="1528293933206" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/startup.sh" timestamp="1528412634277">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+      </file>
       <file name="$USER_HOME$/devel/iris/iris-client/lib/iris-tools-common/models/job.ts" timestamp="1528240809426" />
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/itemRelationshipController.ts" timestamp="1528400263345">
         <mark key="[" line="38" column="34" />
@@ -176,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dwtrace</text>
+        <text>ip-10-192-128-7.ec2.internal</text>
       </register>
       <register name="-" type="4">
-        <text>dwtrace</text>
+        <text>ip-10-192-128-7.ec2.internal</text>
       </register>
       <register name="/" type="4">
         <text>rm</text>
