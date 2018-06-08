@@ -8,10 +8,12 @@
       </file>
       <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/handlers/conform/conformMasterMessageHandler.ts" timestamp="1528385324391" />
       <file name="/ingestController.ts" timestamp="1528320389928" />
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1528414964431">
-        <mark key="[" line="70" column="124" />
-        <mark key="]" line="70" column="124" />
-        <mark key="." line="70" column="124" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" timestamp="1528416620384">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/repositories/channelRepository.ts" timestamp="1528404462601">
         <mark key="[" line="221" column="108" />
@@ -136,7 +138,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1528415595026">
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1528416227317">
         <mark key="[" line="16" column="45" />
         <mark key="]" line="16" column="48" />
         <mark key="^" line="16" column="48" />
@@ -155,11 +157,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/logger.ts" timestamp="1528414981622">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="5" column="65" />
-        <mark key="." line="5" column="65" />
-        <mark key="^" line="5" column="65" />
+      <file name="$USER_HOME$/devel/iris/iris-queue-processor/src/lib/logger.ts" timestamp="1528416695535">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/lib/responseUtils.ts" timestamp="1528398240673">
         <mark key="[" line="79" column="39" />
@@ -183,13 +185,16 @@
       <jump line="26" column="10" filename="$USER_HOME$/devel/iris/iris-queue-processor/package.json" />
       <jump line="107" column="73" filename="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" />
       <jump line="76" column="6" filename="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" />
+      <jump line="7" column="13" filename="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">T0xERVIg</text>
+        <text>{
+  logFile: path.join(config.logging.logFolder, config.amqpConfig.workerQueue + '.log')
+}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T0xERVIg</text>
+        <text>logFolder</text>
       </register>
       <register name="/" type="4">
         <text>rm</text>
@@ -205,38 +210,40 @@
   };
 };</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+  logFile: path.join(config.logging.logFolder, config.amqpConfig.workerQueue + '.log')
+}</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgLy8gdG9kbzogdG8gcmVtb3ZlIG9uY2Ugc3RvcmFnZSBhZGFwdG9yIGFwaSBpcyByZWFkeS4KICAgICAgczNDb25maWc6IHsKICAgICAgICBhY2Nlc3NLZXk6ICdBS0lBSVRCUkZGS0lBNDZSWUlMUScsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiAnMTRobFhJS1NDMHlxODdhSC9hRDlRSnFZQUR3eVdOYmhWY1lITUFvNCcsCiAgICAgICAgYnVja2V0TmFtZTogJ2lyaXMtdG9vbHMtdGVzdCcsCiAgICAgICAgYnVja2V0UmVnaW9uOiAndXMtd2VzdC0xJywKICAgICAgICBidWNrZXRVcmw6ICdodHRwczovL3MzLXVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2lyaXMtdG9vbHMtdGVzdCcKICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coYFNldHRpbmcgbG9nZ2VyIGZvbGRlcjogJHtjb25maWcubG9nZ2luZy5sb2dGb2xkZXJ9YCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGVMb2dMZXZlbDogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19BUElfTE9HX0ZPTERFUiB8fCAnaW5mbycsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKICAgIGhvc3Q6IHByb2Nlc3MuZW52LklSSVNfVE9PTFNfUVVFVUVfSE9TVCB8fCAnbG9jYWxob3N0JywKICAgIHBvcnQ6IHByb2Nlc3MuZW52LklSSVNfVE9PTFNfUVVFVUVfUE9SVCB8fCA1NjcyLAogICAgdXNlcjogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19RVUVVRV9VU0VSIHx8ICdpcmlzbXEnLAogICAgcGFzc3dvcmQ6IHByb2Nlc3MuZW52LklSSVNfVE9PTFNfUVVFVUVfUEFTU1dPUkQgfHwgJ0lyaXMyRGV2JywKICAgIHdvcmtlclF1ZXVlLAogICAgY29uZm9ybVF1ZXVlOiBwcm9jZXNzLmVudi5JU0VfQ09ORk9STV9RVUVVRSB8fCAnQ29uZm9ybU9yY2hlc3RyYXRpb24nLAogICAgcmV0cnlRdWV1ZTogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19SRVRSWV9RVUVVRSB8fCB3b3JrZXJRdWV1ZSwKICAgIGRlYWRRdWV1ZTogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19ERUFEX1FVRVVFLAogIH0=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgLy8gdG9kbzogdG8gcmVtb3ZlIG9uY2Ugc3RvcmFnZSBhZGFwdG9yIGFwaSBpcyByZWFkeS4KICAgICAgczNDb25maWc6IHsKICAgICAgICBhY2Nlc3NLZXk6ICdBS0lBSVRCUkZGS0lBNDZSWUlMUScsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiAnMTRobFhJS1NDMHlxODdhSC9hRDlRSnFZQUR3eVdOYmhWY1lITUFvNCcsCiAgICAgICAgYnVja2V0TmFtZTogJ2lyaXMtdG9vbHMtdGVzdCcsCiAgICAgICAgYnVja2V0UmVnaW9uOiAndXMtd2VzdC0xJywKICAgICAgICBidWNrZXRVcmw6ICdodHRwczovL3MzLXVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2lyaXMtdG9vbHMtdGVzdCcKICAgICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGVMb2dMZXZlbDogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19BUElfTE9HX0ZPTERFUiB8fCAnaW5mbycsCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgaWQ6IGl0ZW1JZCwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>{
   logFile: 'logs/api.log',
   
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkOiBpdGVtLmlkLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBnZXQgZXhpc3RpbmcgaGxzIGl0ZW0K</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -254,6 +261,7 @@
         <entry>x</entry>
         <entry>95</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
