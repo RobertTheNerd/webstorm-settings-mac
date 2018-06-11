@@ -22,10 +22,10 @@
         <mark key="." line="91" column="11" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/config.ts" timestamp="1528416227317">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="48" />
-        <mark key="^" line="16" column="48" />
-        <mark key="." line="16" column="48" />
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="15" column="48" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/lib/iris-tools-utils/services/streamingEengine/index.ts" timestamp="1528394164555">
         <mark key="[" line="13" column="17" />
@@ -54,11 +54,11 @@
       <file name="/JavaScript Console" timestamp="1528414895668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/iris/iris-tools-api/package.json" timestamp="1528409605919">
-        <mark key="[" line="14" column="108" />
-        <mark key="]" line="14" column="111" />
+      <file name="$USER_HOME$/devel/iris/iris-tools-api/package.json" timestamp="1528732630025">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
         <mark key="^" line="14" column="111" />
-        <mark key="." line="14" column="111" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/devel/iris/iris-tools-api/src/controllers/channelController.ts" timestamp="1528411341595">
         <mark key="'" line="129" column="6" />
@@ -168,8 +168,8 @@
       <jump line="15" column="69" filename="$USER_HOME$/devel/iris/iris-queue-processor/src/config.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>folder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICItdWktZXhwcmVzcyI6ICJeMy4wLjgiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>folder</text>
@@ -180,37 +180,34 @@
       <register name="0" type="2">
         <text encoding="base64">SVNFX0NPTkZPUk1fUVVFVUU9J0NvbmZvcm1PcmNoZXN0cmF0aW9uJyBcCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICItdWktZXhwcmVzcyI6ICJeMy4wLjgiLAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>{
   logFile: path.join(config.logging.logFolder, config.amqpConfig.workerQueue + '.log')
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coYFNldHRpbmcgbG9nZ2VyIGZvbGRlcjogJHtjb25maWcubG9nZ2luZy5sb2dGb2xkZXJ9YCk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IHsKICAgIGhvc3Q6IHByb2Nlc3MuZW52LklSSVNfVE9PTFNfUVVFVUVfSE9TVCB8fCAnbG9jYWxob3N0JywKICAgIHBvcnQ6IHByb2Nlc3MuZW52LklSSVNfVE9PTFNfUVVFVUVfUE9SVCB8fCA1NjcyLAogICAgdXNlcjogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19RVUVVRV9VU0VSIHx8ICdpcmlzbXEnLAogICAgcGFzc3dvcmQ6IHByb2Nlc3MuZW52LklSSVNfVE9PTFNfUVVFVUVfUEFTU1dPUkQgfHwgJ0lyaXMyRGV2JywKICAgIHdvcmtlclF1ZXVlLAogICAgY29uZm9ybVF1ZXVlOiBwcm9jZXNzLmVudi5JU0VfQ09ORk9STV9RVUVVRSB8fCAnQ29uZm9ybU9yY2hlc3RyYXRpb24nLAogICAgcmV0cnlRdWV1ZTogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19SRVRSWV9RVUVVRSB8fCB3b3JrZXJRdWV1ZSwKICAgIGRlYWRRdWV1ZTogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19ERUFEX1FVRVVFLAogIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgLy8gdG9kbzogdG8gcmVtb3ZlIG9uY2Ugc3RvcmFnZSBhZGFwdG9yIGFwaSBpcyByZWFkeS4KICAgICAgczNDb25maWc6IHsKICAgICAgICBhY2Nlc3NLZXk6ICdBS0lBSVRCUkZGS0lBNDZSWUlMUScsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiAnMTRobFhJS1NDMHlxODdhSC9hRDlRSnFZQUR3eVdOYmhWY1lITUFvNCcsCiAgICAgICAgYnVja2V0TmFtZTogJ2lyaXMtdG9vbHMtdGVzdCcsCiAgICAgICAgYnVja2V0UmVnaW9uOiAndXMtd2VzdC0xJywKICAgICAgICBidWNrZXRVcmw6ICdodHRwczovL3MzLXVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2lyaXMtdG9vbHMtdGVzdCcKICAgICAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGVMb2dMZXZlbDogcHJvY2Vzcy5lbnYuSVJJU19UT09MU19BUElfTE9HX0ZPTERFUiB8fCAnaW5mbycsCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgaWQ6IGl0ZW1JZCwK</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-  logFile: 'logs/api.log',
-  
-}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
